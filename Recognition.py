@@ -1,6 +1,7 @@
 import mediapipe as mp
 import cv2
 
+#Cv2 is a good library
 mp_drawing = mp.solutions.drawing_utils
 mp_holistic = mp.solutions.holistic
 mp_hands = mp.solutions.hands
